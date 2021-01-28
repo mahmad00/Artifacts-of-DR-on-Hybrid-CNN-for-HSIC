@@ -1,4 +1,4 @@
-# Artifacts-of-DR-on-Hybrid-CNN-for-HSIC
+# Artifacts-of-DR-on-Hybrid-CNN-for-HSIC  -- https://arxiv.org/abs/2101.10532 (Paper link)
 
 
 
