@@ -1,4 +1,4 @@
-# Artifacts-of-DR-on-Hybrid-CNN-for-HSIC  -- https://www.sciencedirect.com/science/article/abs/pii/S0030402621013504 (Paper link)
+## The implementation is associated with: [Artifacts of different dimension reduction methods on hybrid CNN feature hierarchy for Hyperspectral Image Classification](https://www.sciencedirect.com/science/article/abs/pii/S0030402621013504)
 
 Pl. cite this work as;
 
